@@ -1,8 +1,10 @@
-# Kuluma
+# Kuluma App
 
 Artikkeli projektista:
 
-https://pohjoisentekijat.fi/2023/03/15/kestavampaa-asumista-yhteisollisyyden-ja-teknologian-keinoin-dwell-alykas-taloyhteiso/
+https://www.theseus.fi/bitstream/handle/10024/791838/10_2023_Kestavampaa_asumista_yhteisollisyyden_ja_teknologian_keinoin.pdf
+
+This is not the original repository for the application and I'm NOT the author of all the code in this codebase. Purpose of this repository is to give access to Cross-Platform Mobile Application Development students possibility to familiarize with real-world Flutter application.
 
 ## Flutter
 
